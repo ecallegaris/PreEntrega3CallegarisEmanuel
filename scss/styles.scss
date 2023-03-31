@@ -27,11 +27,6 @@ $color-navbar: transparent;
 .navbar {
 	li{	
 		/*separo los ítems de la navbar*/
-		/* margin: 1em 2em 3em 4em
-		margen superior 1em,
-        margen derecho 2em,
-        margen inferior 3em,
-        margen izquierdo 4em */
 		margin: 10px 10px 10px 0px;
 		/*tiempo de transisión*/
 		transition: transform .3s;
@@ -43,12 +38,10 @@ $color-navbar: transparent;
 } 
 
 .container-fluid{
-	/*background-color: black;*/
-		.paddingTB {
-			padding-top: 50px;
-			padding-bottom: 50px;
+	.paddingTB {
+		padding-top: 50px;
+		padding-bottom: 50px;
 		}
-		
 }
 
 .body_acercade{
@@ -62,7 +55,6 @@ $color-navbar: transparent;
 		img{
 			max-width: 300px;
 			max-height: 300px;
-			
 		}
 		h3{
 			margin-top: 30px;
@@ -73,7 +65,6 @@ $color-navbar: transparent;
 }
 
 .footerBg {
-	/*background-color: rgb(250, 245, 245);*/
 	background-color: $color-footer;
 		h3 {
 			color: $color-h3-footer;
@@ -98,14 +89,11 @@ $color-navbar: transparent;
 		.item_contact{
 			margin-top: 10px;
 			margin-left: 30px;
-				
 		}		
 		.item_network{
 			margin-top: 10px;
 			margin-left: 30px;
 		}
-		
-		
 }
 
 .footer_box_copyright p{
