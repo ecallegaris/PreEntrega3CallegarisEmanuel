@@ -49,6 +49,10 @@
   margin-left: auto;
   margin-right: auto;
 }
+.body_acercade img {
+  max-width: 400px;
+  max-height: 400px;
+}
 .body_acercade h3 {
   margin-top: 30px;
   margin-bottom: 30px;
