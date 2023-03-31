@@ -58,8 +58,10 @@ $color-navbar: transparent;
 	margin-top: 30px;
 	margin-bottom: 30px;
 		img{
-			max-width: 400px;
-			max-height: 400px;
+			/*max-width: 400px;
+			max-height: 400px;*/
+			max-width: 100%;
+			height: auto;
 		}
 		h3{
 			margin-top: 30px;
