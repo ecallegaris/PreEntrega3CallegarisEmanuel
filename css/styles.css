@@ -75,11 +75,12 @@
 }
 .footerBg .item_contact {
   margin-top: 10px;
-  margin-left: 30px;
+  margin-left: 70px;
 }
 .footerBg .item_network {
   margin-top: 10px;
-  margin-left: 30px;
+  /*margin-left: 70px;*/
+  text-align: center;
 }
 
 .footer_box_copyright p {
